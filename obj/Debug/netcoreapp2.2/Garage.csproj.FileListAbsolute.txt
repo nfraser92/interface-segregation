@@ -1,0 +1,11 @@
+C:\workspace\csharp\exercises\vehicleinterfaces\obj\Debug\netcoreapp2.2\Garage.csprojAssemblyReference.cache
+C:\workspace\csharp\exercises\vehicleinterfaces\obj\Debug\netcoreapp2.2\Garage.csproj.CoreCompileInputs.cache
+C:\workspace\csharp\exercises\vehicleinterfaces\obj\Debug\netcoreapp2.2\Garage.AssemblyInfoInputs.cache
+C:\workspace\csharp\exercises\vehicleinterfaces\obj\Debug\netcoreapp2.2\Garage.AssemblyInfo.cs
+C:\workspace\csharp\exercises\vehicleinterfaces\bin\Debug\netcoreapp2.2\Garage.deps.json
+C:\workspace\csharp\exercises\vehicleinterfaces\bin\Debug\netcoreapp2.2\Garage.runtimeconfig.json
+C:\workspace\csharp\exercises\vehicleinterfaces\bin\Debug\netcoreapp2.2\Garage.runtimeconfig.dev.json
+C:\workspace\csharp\exercises\vehicleinterfaces\bin\Debug\netcoreapp2.2\Garage.dll
+C:\workspace\csharp\exercises\vehicleinterfaces\bin\Debug\netcoreapp2.2\Garage.pdb
+C:\workspace\csharp\exercises\vehicleinterfaces\obj\Debug\netcoreapp2.2\Garage.dll
+C:\workspace\csharp\exercises\vehicleinterfaces\obj\Debug\netcoreapp2.2\Garage.pdb
